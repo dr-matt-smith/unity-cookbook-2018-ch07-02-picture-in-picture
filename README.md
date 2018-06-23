@@ -1,1 +1,1 @@
-# unity-cookbook-2018-ch06-01-picture-in-picture
+# unity-cookbook-2018-ch06-02-picture-in-picture
